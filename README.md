@@ -3,5 +3,5 @@
 
 
 terminal commands(install node.js in your system) :- 
-npm install
+npm install -
 npm start
